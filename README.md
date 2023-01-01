@@ -9,9 +9,7 @@
 
 - UMW graduate '22
 - I love playing Pokemon and Destiny2 in my spare time
-- I’m currently searching for a new job opportunity
-
-<br><br>
+- I’m currently seeking an entry-level CPSC position
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
