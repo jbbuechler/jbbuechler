@@ -9,8 +9,6 @@
 
 <picture> <img align="right" src="./assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<br>
-
 - A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
