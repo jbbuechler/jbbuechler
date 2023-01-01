@@ -7,13 +7,9 @@
 	
 ## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="./assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- UMW graduate '22
+- I love playing Pokemon and Destiny2 in my spare time
+- I’m currently searching for a new job opportunity
 
 <br><br>
 
