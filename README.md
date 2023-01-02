@@ -20,7 +20,7 @@
 
 - **Programming Languages**:
 	
-    [![My Skills](https://skillicons.dev/icons?i=python,c,java,html,php,markdown,js)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=python,c,java,html,php,js,markdown)](https://skillicons.dev)
     
 - **Development Tools**:
 
