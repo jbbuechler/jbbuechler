@@ -20,13 +20,11 @@
 
 - **Programming Languages**:
 	
-    [![My Skills](https://skillicons.dev/icons?i=python,c,java)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=python,c,java,sql)](https://skillicons.dev)
     
 - **Development Tools**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,linux,ubuntu,vim,postresql,mysql,intellij,pycharm,mamp)](https://skillicons.dev)
 
 </p>
 
