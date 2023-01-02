@@ -55,8 +55,6 @@
 <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" height="60" width="60"/>
 </a>
 
-[![instagram](https://socialize-md.vercel.app/api/badge/instagram)](https://www.instagram.com/jbbuechler/)
-
 <a href="https://twitter.com/jb_buechler" target="_blank">
 <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" height="60" width="60"/>
 </a>
