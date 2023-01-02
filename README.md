@@ -8,8 +8,8 @@
 ## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 - UMW graduate '22
-- I love playing Pokemon and Destiny2 in my spare time
-- I’m currently seeking an entry-level CPSC position
+- I love playing Pokemon and Destiny2 in my spare time!
+- I’m currently seeking an entry-level CPSC position.
 
 <br>
 
