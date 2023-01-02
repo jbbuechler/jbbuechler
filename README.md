@@ -24,7 +24,7 @@
     
 - **Development Tools**:
 
-    [![My Skills](https://skillicons.dev/icons?i=github,idea,linux,vim,mysql,discord,postgres,git,powershell)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=github,idea,git,linux,vim,mysql,postgres,discord,powershell)](https://skillicons.dev)
 
 </p>
 
