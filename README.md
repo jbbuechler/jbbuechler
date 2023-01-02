@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+love+computer+science+<3;University+of+Mary+Washington+graduate!;Check+out+my+project+repositories+:)"></a>
 </p>	
+
 ## <picture><img src = "./assets/mdImages/about_me.gif" width = 35px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/jbbuechler/jbbuechler/blob/main/assets/images/trans%20pika.gif" width = 200px></picture>
