@@ -7,7 +7,7 @@
 	
 ## <picture><img src = "./assets/mdImages/about_me.gif" width = 35px></picture> **About me**
 
-<picture> <img align="right" src=https://www.bing.com/images/search?view=detailV2&ccid=MWZuivSv&id=4BE54B1755823A77719450B347EC8B8397614B71&thid=OIP.MWZuivSvMx5nE8SsYO34fQHaEK&mediaurl=https%3a%2f%2fart.pixilart.com%2f3e22b4f925622dd.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.31666e8af4af331e6713c4ac60edf87d%3frik%3dcUthl4OL7EezUA%26pid%3dImgRaw%26r%3d0&exph=576&expw=1024&q=Pikachu+Running+GIF+Transparent&simid=608003662693410177&FORM=IRPRST&ck=CA015920E1606AD3B41BA8EB2EC28DDE&selectedIndex=18&ajaxhist=0&ajaxserp=0</picture>
+<picture> <img align="right" src=""</picture>
 
 - UMW graduate '22, CPSC major!
 - My favorite languages are Python, C, and Java!
