@@ -7,7 +7,7 @@
 	
 ## <picture><img src = "./assets/mdImages/about_me.gif" width = 35px></picture> **About me**
 
-<picture> <img align="right" src=""</picture>
+<picture> <img align="right" src="https://github.com/jbbuechler/jbbuechler/blob/main/assets/images/pika.gif"</picture>
 
 - UMW graduate '22, CPSC major!
 - My favorite languages are Python, C, and Java!
