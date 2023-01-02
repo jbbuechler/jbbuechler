@@ -45,7 +45,6 @@
 <br>
 
 ## <b> Let's Connect!</b><img src="./assets/mdImages/handshake.gif" width ="80">
-<br>
 <p align="left">
 
 <a href="https://www.linkedin.com/in/jeremy-buechler-582828229/" target="_blank">
