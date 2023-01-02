@@ -10,7 +10,7 @@
 - UMW graduate '22, CPSC major!
 - My favorite languages are Python, C, and Java!
 - I love playing Pokemon and Destiny2 in my spare time :)
-- I’m currently seeking an entry-level software developement position!
+- I’m currently seeking an entry-level software development position!
 
 <br>
 
