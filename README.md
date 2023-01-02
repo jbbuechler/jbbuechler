@@ -8,9 +8,9 @@
 ## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 - UMW graduate '22
-- My favorite kanguages are Python, C, and Java
-- I love playing Pokemon and Destiny2 in my spare time
-- I’m currently seeking an entry-level CPSC position
+- My favorite languages are Python, C, and Java!
+- I love playing Pokemon and Destiny2 in my spare time :)
+- I’m currently seeking an entry-level CPSC position!
 
 <br>
 
