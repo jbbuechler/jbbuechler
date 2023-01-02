@@ -55,5 +55,5 @@
 <br>
 
 <a href="mailto:jeremy.b.buechler@gmail.com" target="_blank">
-<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" />
+<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" height="30" width="30"/>
 </a>
