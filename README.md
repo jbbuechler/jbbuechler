@@ -46,14 +46,13 @@
 
 ## <b> Let's Connect!</b><img src="./assets/mdImages/handshake.gif" width ="80">
 <br>
-<div align='left'>
+<p align="center">
 
 <a href="https://www.linkedin.com/in/jeremy-buechler-582828229/" target="_blank">
-<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png"/>
+<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" height="60" width="60"/>
 </a>
-
-<br>
 
 <a href="mailto:jeremy.b.buechler@gmail.com" target="_blank">
 <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" height="60" width="60"/>
 </a>
+</p>
