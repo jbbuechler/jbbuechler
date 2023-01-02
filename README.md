@@ -58,4 +58,8 @@
 <a href="https://twitter.com/jb_buechler" target="_blank">
 <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" height="60" width="60"/>
 </a>
+	
+<a href="https://www.instagram.com/jbbuechler/" target="_blank">
+<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" height="60" width="60"/>
+</a>
 </p>
