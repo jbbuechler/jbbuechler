@@ -20,11 +20,11 @@
 
 - **Programming Languages**:
 	
-    [![My Skills](https://skillicons.dev/icons?i=python,c,java,php,markdown,makefile)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=python,c,java,php,markdown)](https://skillicons.dev)
     
 - **Development Tools**:
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,linux,vim,mysql)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=idea,git,github,linux,vim,mysql,discord,postgres,powershell)](https://skillicons.dev)
 
 </p>
 
