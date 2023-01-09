@@ -9,7 +9,7 @@
 
 <picture> <img align="right" src="https://github.com/jbbuechler/jbbuechler/blob/main/assets/images/trans%20pika.gif" width = 200px></picture>
 
-- UMW graduate '22, CPSC major!
+- UMW graduate '22, BS in computer science!
 - My favorite languages are Python, C, and Java!
 - I like playing Pokemon, Destiny2, and Rocket League in my spare time :)
 - I’m currently seeking an entry-level software development position!
